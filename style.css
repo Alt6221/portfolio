@@ -1,0 +1,13 @@
+.mc1{
+    font-family:'Times New Roman' 30px blue;
+    position:absolute;
+    left:200px;
+    right:200px;
+}
+.para1{
+    font-family: 'Arial' 15px blue; 
+}
+.ol1{
+    display: inline-block;
+    text-align: left;
+}
